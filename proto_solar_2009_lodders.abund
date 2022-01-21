@@ -1,0 +1,44 @@
+ 1 12.000  H 
+ 2 10.986  He
+ 3  1.153  Li
+ 4  1.433  Be
+ 5  2.753  B 
+ 6  8.443  C 
+ 7  7.913  N 
+ 8  8.783  O 
+ 9  4.613  F 
+10  8.103  Ne
+11  6.353  Na
+12  7.593  Mg
+13  6.523  Al
+14  7.573  Si
+15  5.513  P 
+16  7.193  S 
+17  5.553  Cl
+18  6.553  Ar
+19  5.173  K 
+20  6.383  Ca
+21  3.153  Sc
+22  4.953  Ti
+23  4.053  V 
+24  5.693  Cr
+25  5.423  Mn
+26  7.503  Fe
+27  4.973  Co
+28  6.283  Ni
+29  4.263  Cu
+30  4.673  Zn
+ -1
+%filename: proto_solar_2009_lodders.abund
+%created for the CHIANTI atomic database by Peter Young, 12-Aug-2016
+%abundance: Lodders, K., Palme, H., & Gail, H.P. 2009, Astronomy, Astrophysics, and Cosmology, B: 
+            Solar System, Landolt-Bornstein, New Series VI/4, Spring, Berlin, 560 
+            <bibcode="2009LanB...4B...44L">
+%comment:
+   These are solar system abundances from 4.56 Ga (so-called proto-solar abundances).
+   They are derived from present-day solar photospheric abundances in a simple way: He
+   is 0.061 higher and all other elements are 0.053 higher (hydrogen is unchanged).
+
+   This reference is quite obscure, but the article can also be downloaded via astro-ph
+   (arXiv:0901.1149).
+ -1
